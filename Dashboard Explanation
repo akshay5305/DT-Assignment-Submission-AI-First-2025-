@@ -1,0 +1,21 @@
+# Dashboard Explanation
+
+This dashboard is designed to help leadership steer B2B campaigns with clarity.
+
+### 📊 Metrics Tracked:
+- Leads → MQLs → SQLs → Clients
+- Conversion % at each stage
+- Campaign-level drop-off mapping
+- Persona-specific response trends
+
+### 🎯 Diagnosis Layer:
+- AIDCA-based issue tagging per campaign
+- Summary of what persuasion element failed (e.g., CTA, Trust)
+
+### 🧠 Strategic Layer:
+- Recommended intervention: Nurturing vs Targeting
+- Content prompts that worked
+- Ideal sending times & audience segmentation
+
+### 🛠️ Tools:
+Built in Excel for functional clarity. Figma wireframe included for boardroom storytelling.
