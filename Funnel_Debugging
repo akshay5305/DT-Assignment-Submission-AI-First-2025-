@@ -1,0 +1,27 @@
+## Funnel Diagnosis and Prompt Fixes
+
+| Lead → MQL → SQL → Client | Response Rate | Drop-off Reason           | Campaign Summary                             |
+|---------------------------|----------------|----------------------------|----------------------------------------------|
+| 300 → 180 → 40 → 5        | 60%, then 22%  | Trust drop at SQL stage    | Emphasized product, lacked use-case clarity  |
+| 250 → 60 → 12 → 2         | 24%, then 20%  | Weak CTA, no urgency       | Informative but non-committal                |
+| 500 → 240 → 100 → 40      | 48%, then 41%  | Long-form, over-engineered | Message was too technical                    |
+
+---
+
+### Fix 1:
+**Prompt Targeting**: Conviction (C) stage  
+**Cialdini**: Social Proof + Authority  
+**Fix**: “Inject a case study link mid-email showing industry use-case to reduce hesitation.”  
+Justification: Solves SQL trust drop by anchoring proof.
+
+### Fix 2:
+**Prompt Targeting**: Action (A) stage  
+**Cialdini**: Scarcity + Reciprocity  
+**Fix**: “Add: ‘Only 3 audit slots left for August – want me to block one?’”  
+Justification: Solves no-action issue by creating FOMO.
+
+### Fix 3:
+**Prompt Targeting**: Interest (I) and Desire (D)  
+**Cialdini**: Clarity over complexity  
+**Fix**: “Prompt GPT to compress value prop in 3 bullets max.”  
+Justification: Solves overload by improving skimmability.
